@@ -1,0 +1,11 @@
+ls --- (list) show all contents in directory or folder
+cd -- change directory / traverse into specific folder
+cd .. -- come back to directory
+pwd -- print working directory
+mkdir – Command used to create directories in Linux. 
+rmdir --- to remove / delete direcotry or folder
+touch -- to create empty file
+rm--- remove file in a directory
+uname – Linux command to get basic information about the OS. 
+clear -- clear the terminal
+passwd – Create or update passwords for existing users. 
