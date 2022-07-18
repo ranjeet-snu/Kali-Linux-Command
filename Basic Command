@@ -9,3 +9,5 @@ rm--- remove file in a directory
 uname – Linux command to get basic information about the OS. 
 clear -- clear the terminal
 passwd – Create or update passwords for existing users. 
+git clone -- coommand to use clone tool avaliable on git on your local machine kali
+pip -- to install requirements of a package
